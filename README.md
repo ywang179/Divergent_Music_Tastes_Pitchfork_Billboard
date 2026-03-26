@@ -1,4 +1,4 @@
-# Divergent Tastes: Mapping the Cultural Distance Between Pitchfork and Billboard (2015–2024)
+# Divergent Music Tastes: Mapping the Cultural Distance Between Pitchfork and Billboard (2015–2024)
 
 ## Research Goal:
 This project investigates how musical reputation is shaped through two distinct lenses—critical acclaim (Pitchfork) and mainstream popularity (Billboard). Through artist frequency, genre presence, temporal patterns, and thematic content, we explore where these two platforms align and diverge in their musical valuation.
